@@ -21,6 +21,6 @@
 - Confusion Matrix
 
 
-## Training workflow is as follows:
+## Training workflow is as follows :
 
 ![Test Image 8](https://raw.githubusercontent.com/PSYCHOBITx/INTEL_Multi_class/master/images/a.png)
